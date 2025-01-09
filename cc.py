@@ -19,7 +19,7 @@ def zaloguj():
 
 
 root.title("Aplikacja testowa")
-root.geometry("600x400")
+root.geometry("600x500")
 root.minsize(400, 300)
 root.maxsize(900, 600)
 
